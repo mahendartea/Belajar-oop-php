@@ -68,3 +68,5 @@ $mobil->warna = "hitam";
 $mobil->tahunProduksi = 2022;
 echo $mobil->getInfo();
 ```
+
+[Constructor](constructor.md)
